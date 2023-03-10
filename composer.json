@@ -1,8 +1,8 @@
 {
-    "name": "fateczonaleste/gerarqr",
+    "name": "/gerarqr",
     "autoload": {
         "psr-4": {
-            "Fateczonaleste\\Gerarqr\\": "src/"
+            "\Gerarqr\\": "src/"
         }
     },
     "authors": [
