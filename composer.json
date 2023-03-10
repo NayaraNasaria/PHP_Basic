@@ -1,0 +1,16 @@
+{
+    "name": "fateczonaleste/gerarqr",
+    "autoload": {
+        "psr-4": {
+            "Fateczonaleste\\Gerarqr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nayara"
+        }
+    ],
+    "require": {
+        "chillerlan/php-qrcode": "^4.3"
+    }
+}
